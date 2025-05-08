@@ -1,0 +1,17 @@
+body {
+	background-color: #1b263b;
+	color: #f2cc8f;
+	align-content: center;
+	font-family: monospace;
+}
+
+img {
+	margin-left: 10px;
+	max-width: 250px;
+}
+
+button {
+	font-family: monospace;
+	background-color: #415a77;
+	color: #fff3b0;
+}
